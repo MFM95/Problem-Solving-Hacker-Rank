@@ -6,26 +6,39 @@ class ExampleUnitTest {
     @Test
     fun solve_problem() {
         println(
-            rotLeft(arrayOf(1,2,3,4,5), 4).joinToString(",")
+            minimumBribes(arrayOf(2,5,1,3,4))
         )
     }
 
-    fun rotLeft(a: Array<Int>, d: Int): Array<Int> {
-        var i = d
-        var count = 0
-        val arr = ArrayList<Int>()
-        while (count < a.size) {
-            if (i >= a.size) {
-                i = 0
-            } else {
-                arr.add(a[i++])
-                count++
+    fun minimumBribes(q: Array<Int>): Unit {
+        var bribes = 0
+        for (i in (q.size - 1) downTo 0) {
+            if (q[i] != i + 1) {
+                when {
+                    q[i - 1] == i + 1 -> {
+                        swap(q, i - 1, i)
+                        bribes++
+                    }
+                    q[i - 2] == i + 1 -> {
+                        swap(q, i - 2, i - 1)
+                        swap(q, i - 1, i)
+                        bribes += 2
+                    }
+                    else -> {
+                        println("Too chaotic")
+                        return
+                    }
+                }
             }
         }
-        return arr.toTypedArray()
+        println(bribes.toString())
     }
 
-
+    fun swap(q: Array<Int>, i: Int, j: Int) {
+        val temp = q[i]
+        q[i] = q[j]
+        q[j] = temp
+    }
 
 }
 
