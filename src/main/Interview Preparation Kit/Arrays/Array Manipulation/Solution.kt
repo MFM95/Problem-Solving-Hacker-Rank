@@ -36,25 +36,5 @@ fun arrayManipulation(n: Int, queries: Array<Array<Int>>): Long {
         arr[i] += arr[i-1]
     }
 
-    return arr.max()?: 0
+    return arr.max() ?: 0
 }
-
-
-fun main(args: Array<String>) {
-    val first_multiple_input = readLine()!!.trimEnd().split(" ")
-
-    val n = first_multiple_input[0].toInt()
-
-    val m = first_multiple_input[1].toInt()
-
-    val queries = Array<Array<Int>>(m, { Array<Int>(3, { 0 }) })
-
-    for (i in 0 until m) {
-        queries[i] = readLine()!!.trimEnd().split(" ").map{ it.toInt() }.toTypedArray()
-    }
-
-    val result = arrayManipulation(n, queries)
-
-    println(result)
-}
- 
