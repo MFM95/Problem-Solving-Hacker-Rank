@@ -5,7 +5,6 @@ import org.junit.Test
 class ExampleUnitTest {
     @Test
     fun solve_problem() {
-
     }
 
 
