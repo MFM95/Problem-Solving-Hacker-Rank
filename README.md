@@ -21,7 +21,7 @@
 ### Subdomain: Search
 | # |    Problem        |    Difficulty      |      Solution       |      Main Idea      |
 | --| ----------------- |------------------  | ------------------  | -----------------   |
-| 1 | [Pairs](https://www.hackerrank.com/challenges/pairs/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search) | Medium |  [Solution](https://github.com/MFM95/Problem-Solving-Hacker-Rank/blob/main/src/main/Interview%20Preparation%20Kit/Search/Pairs/Solution.kt)  | Brute Force |
+| 1 | [Pairs](https://www.hackerrank.com/challenges/pairs/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search) | Medium |  [Solution](https://github.com/MFM95/Problem-Solving-Hacker-Rank/blob/main/src/main/Interview%20Preparation%20Kit/Search/Pairs/Solution.kt)  | Brute Force (HashMap) |
 
 ### Subdomain: String Manipulation
 | # |    Problem        |    Difficulty      |      Solution       |      Main Idea      |
