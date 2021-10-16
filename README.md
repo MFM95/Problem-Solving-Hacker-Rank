@@ -22,3 +22,8 @@
 | # |    Problem        |    Difficulty      |      Solution       |      Main Idea      |
 | --| ----------------- |------------------  | ------------------  | -----------------   |
 | 1 | [Pairs](https://www.hackerrank.com/challenges/pairs/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search) | Medium |  [Solution]()  | Brute Force |
+
+### Subdomain: String Manipulation
+| # |    Problem        |    Difficulty      |      Solution       |      Main Idea      |
+| --| ----------------- |------------------  | ------------------  | -----------------   |
+| 1 | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings) | Easy |  [Solution]()  | Brute Force |
