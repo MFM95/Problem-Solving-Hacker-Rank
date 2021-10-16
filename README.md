@@ -9,3 +9,9 @@
 | 3 | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=arrays) | Medium |  [Solution](https://github.com/MFM95/Problem-Solving-Hacker-Rank/blob/main/src/main/Interview%20Preparation%20Kit/Arrays/New%20Year%20Chaos/Solution.kt)  | Brute Force |
 | 4 | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=arrays) | Medium |  [Solution](https://github.com/MFM95/Problem-Solving-Hacker-Rank/blob/main/src/main/Interview%20Preparation%20Kit/Arrays/Minimum%20Swaps%202/Solution.kt)  | Brute Force |
 | 5 | [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | Hard |  [Solution](https://github.com/MFM95/Problem-Solving-Hacker-Rank/blob/main/src/main/Interview%20Preparation%20Kit/Arrays/Array%20Manipulation/Solution.kt)  | Difference Array & Prefix Sum |
+
+
+### Subdomain: Dictionaries and Hashmaps
+| # |    Problem        |    Difficulty      |      Solution       |      Main Idea      |
+| --| ----------------- |------------------  | ------------------  | -----------------   |
+| 1 | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dictionaries-hashmaps) | Easy |  [Solution]()  | Brute Force |
