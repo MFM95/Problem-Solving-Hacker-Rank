@@ -28,7 +28,6 @@ private fun swap(arr: Array<Int>, x: Int, y: Int) {
 
 
 // Another Solution
-
 fun minimumSwaps_AnotherSolution(arr: Array<Int>): Int {
     var swapsCount = 0
     for (i in arr.indices) {
