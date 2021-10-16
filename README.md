@@ -16,3 +16,9 @@
 | --| ----------------- |------------------  | ------------------  | -----------------   |
 | 1 | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dictionaries-hashmaps) | Easy |  [Solution]()  | Brute Force |
 | 2 | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | Easy |  [Solution]()  | Brute Force |
+
+
+### Subdomain: Search
+| # |    Problem        |    Difficulty      |      Solution       |      Main Idea      |
+| --| ----------------- |------------------  | ------------------  | -----------------   |
+| 1 | [Pairs](https://www.hackerrank.com/challenges/pairs/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search) | Medium |  [Solution]()  | Brute Force |
