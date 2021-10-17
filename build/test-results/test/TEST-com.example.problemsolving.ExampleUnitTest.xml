@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.problemsolving.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-16T21:31:25" hostname="android-Lenovo-ideapad-110-15ISK" time="0.006">
+<testsuite name="com.example.problemsolving.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-17T08:37:01" hostname="android-Lenovo-ideapad-110-15ISK" time="0.005">
   <properties/>
-  <testcase name="solve_problem" classname="com.example.problemsolving.ExampleUnitTest" time="0.006"/>
-  <system-out><![CDATA[No
-kotlin.Unit
+  <testcase name="solve_problem" classname="com.example.problemsolving.ExampleUnitTest" time="0.005"/>
+  <system-out><![CDATA[4
+0
+7
+5
+1
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
