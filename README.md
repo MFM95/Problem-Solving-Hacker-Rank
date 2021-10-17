@@ -27,6 +27,7 @@
 | # |    Problem        |    Difficulty      |      Solution       |      Main Idea      |
 | --| ----------------- |------------------  | ------------------  | -----------------   |
 | 1 | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings) | Easy |  [Solution](https://github.com/MFM95/Problem-Solving-Hacker-Rank/blob/main/src/main/Interview%20Preparation%20Kit/String%20Manipulation/Strings:%20Making%20Anagrams/Solution.kt)  | Brute Force |
+| 2 | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings) | Easy |  [Solution](https://github.com/MFM95/Problem-Solving-Hacker-Rank/blob/main/src/main/Interview%20Preparation%20Kit/String%20Manipulation/Alternating%20Characters/Solution.kt)  | Brute Force |
 
 
 ### Subdomain: Warm-up Challenges
