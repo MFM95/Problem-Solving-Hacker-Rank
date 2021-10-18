@@ -28,7 +28,7 @@
 | --| ----------------- |------------------  | ------------------  | -----------------   |
 | 1 | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings) | Easy |  [Solution](https://github.com/MFM95/Problem-Solving-Hacker-Rank/blob/main/src/main/Interview%20Preparation%20Kit/String%20Manipulation/Strings:%20Making%20Anagrams/Solution.kt)  | Brute Force |
 | 2 | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings) | Easy |  [Solution](https://github.com/MFM95/Problem-Solving-Hacker-Rank/blob/main/src/main/Interview%20Preparation%20Kit/String%20Manipulation/Alternating%20Characters/Solution.kt)  | Brute Force |
-| 3 | [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings) | Medium |  [Solution]()  | Brute Force (HashMap) |
+| 3 | [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings) | Medium |  [Solution](https://github.com/MFM95/Problem-Solving-Hacker-Rank/blob/main/src/main/Interview%20Preparation%20Kit/String%20Manipulation/Sherlock%20and%20the%20Valid%20String/Solution.kt)  | Brute Force (HashMap) |
 
 ### Subdomain: Warm-up Challenges
 | # |    Problem        |    Difficulty      |      Solution       |      Main Idea      |
