@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.problemsolving.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-17T08:37:01" hostname="android-Lenovo-ideapad-110-15ISK" time="0.005">
+<testsuite name="com.example.problemsolving.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-18T08:42:36" hostname="android-Lenovo-ideapad-110-15ISK" time="0.016">
   <properties/>
-  <testcase name="solve_problem" classname="com.example.problemsolving.ExampleUnitTest" time="0.005"/>
-  <system-out><![CDATA[4
-0
-7
-5
-1
+  <testcase name="solve_problem" classname="com.example.problemsolving.ExampleUnitTest" time="0.016"/>
+  <system-out><![CDATA[YES
+YES
+YES
+NO
+NO
+NO
+YES
+YES
+YES
+NO
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
