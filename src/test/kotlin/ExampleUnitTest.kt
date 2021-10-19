@@ -8,9 +8,7 @@ import kotlin.math.min
 class ExampleUnitTest {
     @Test
     fun solve_problem() {
-
     }
-
 
 }
 
