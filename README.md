@@ -16,6 +16,7 @@
 | --| ----------------- |------------------  | ------------------  | -----------------   |
 | 1 | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dictionaries-hashmaps) | Easy |  [Solution](https://github.com/MFM95/Problem-Solving-Hacker-Rank/blob/main/src/main/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps/Hash%20Tables:%20Ransom%20Note/Solution.kt)  | Brute Force |
 | 2 | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | Easy |  [Solution](https://github.com/MFM95/Problem-Solving-Hacker-Rank/blob/main/src/main/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps/Two%20Strings/Solution.kt)  | Brute Force |
+| 3 | [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | Medium |  [Solution](https://github.com/MFM95/Problem-Solving-Hacker-Rank/blob/main/src/main/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps/Frequency%20Queries/Solution.kt)  | Brute Force (2 Hash Maps) |
 
 
 ### Subdomain: Search
