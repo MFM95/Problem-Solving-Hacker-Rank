@@ -43,4 +43,10 @@
 | 3 | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=warmup) | Easy |  [Solution](https://github.com/MFM95/Problem-Solving-Hacker-Rank/blob/main/src/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/Jumping%20on%20the%20Clouds/Solution.kt)  | Brute Force |
 | 4 | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=warmup) | Easy |  [Solution](https://github.com/MFM95/Problem-Solving-Hacker-Rank/blob/main/src/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/Repeated%20Strings/Solution.kt)  | Brute Force |
 
+### Subdomain: Sorting
+| # |    Problem        |    Difficulty      |      Solution       |      Main Idea      |
+| --| ----------------- |------------------  | ------------------  | -----------------   |
+| 1 | [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&isFullScreen=true&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=sorting) | Easy |  [Solution](https://github.com/MFM95/Problem-Solving-Hacker-Rank/blob/main/src/main/Interview%20Preparation%20Kit/Sorting/Bubble%20Sort/Solution.kt)  | Bubble Sort Algorithm |
+| 2 | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem?h_l=interview&isFullScreen=true&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=sorting) | Easy |  [Solution](https://github.com/MFM95/Problem-Solving-Hacker-Rank/blob/main/src/main/Interview%20Preparation%20Kit/Sorting/Mark%20and%20Toys/Solution.java)  | Brute Force |
+| 3 | [Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting) | Medium |  [Solution](https://github.com/MFM95/Problem-Solving-Hacker-Rank/blob/main/src/main/Interview%20Preparation%20Kit/Sorting/Sorting:%20Comparator/Solution.java)  | Brute Force |
 
