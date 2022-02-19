@@ -24,6 +24,8 @@
 | # |    Problem        |    Difficulty      |      Solution       |      Main Idea      |
 | --| ----------------- |------------------  | ------------------  | -----------------   |
 | 1 | [Pairs](https://www.hackerrank.com/challenges/pairs/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search) | Medium |  [Solution](https://github.com/MFM95/Problem-Solving-Hacker-Rank/blob/main/src/main/Interview%20Preparation%20Kit/Search/Pairs/Solution.kt)  | Brute Force (HashMap) |
+| 2 | [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=search) | Medium |  [Solution](https://github.com/MFM95/Problem-Solving-Hacker-Rank/blob/main/src/main/Interview%20Preparation%20Kit/Search/Hash%20Tables:%20Ice%20Cream%20Parlor/Solution.kt)  | Brute Force (HashMap) |
+| 3 | [Triple sum](https://www.hackerrank.com/challenges/triple-sum/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search) | Medium |  [Solution](https://github.com/MFM95/Problem-Solving-Hacker-Rank/blob/main/src/main/Interview%20Preparation%20Kit/Search/Triple%20sum/Solution.kt)  | Brute Force & Binary Search) |
 
 ### Subdomain: String Manipulation
 | # |    Problem        |    Difficulty      |      Solution       |      Main Idea      |
