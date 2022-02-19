@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.problemsolving.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-14T18:41:10" hostname="macbook-pro-407" time="0.002">
+<testsuite name="com.example.problemsolving.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-19T17:17:12" hostname="MacBook-Pro-407.local" time="0.022">
   <properties/>
-  <testcase name="solve_problem" classname="com.example.problemsolving.ExampleUnitTest" time="0.002"/>
-  <system-out><![CDATA[Array is sorted in 0 swaps.
-First Element: 1 
-Last Element: 3 
+  <testcase name="solve_problem" classname="com.example.problemsolving.ExampleUnitTest" time="0.022"/>
+  <system-out><![CDATA[12
+5
+8
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
